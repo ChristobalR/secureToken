@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/ChristobalR/api.git
+[submodule "loginPage"]
+	path = loginPage
+	url = https://github.com/ChristobalR/loginPage.git
